@@ -11,7 +11,11 @@ The program is "crash-proof." If a user accidentally types letters when the prog
 The while True loop keeps the program open so you can use multiple tools in one session without having to restart the script.
 ________________________________________
  Technical Concepts Used
+ 
 •	Modular Functions: Reusable blocks of code.
+
 •	Parameters & Returns: Passing data in and getting answers out.
+
 •	Input Validation: Handling errors gracefully.
+
 •	Math Module: Using Python's built-in math library for square roots
